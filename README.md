@@ -14,5 +14,3 @@ Hello World! I'm Arvin a first-year Computer Science student in University of th
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=arvin-ferrer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
