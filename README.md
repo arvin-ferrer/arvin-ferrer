@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello World! I'm Arvin a first-year Computer Science student in University of the Philippines Los Baños, Laguna. Nice to meet you!<br><br>🔭I like competitive programming.<br>🌱 I’m currently learning about computer science in general but I'm also doing some side projects when time permits.<br>.
+Hello World! I'm Arvin a first-year Computer Science student in University of the Philippines Los Baños, Laguna. Nice to meet you!<br><br>🔭I like competitive programming.<br>🌱 I’m currently learning about computer science in general but I'm also doing some side projects when time permits.<br> I love learning algorithms but I don't like implementing them.
 
 
 ## 🌐 Socials:
