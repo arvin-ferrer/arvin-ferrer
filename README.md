@@ -1,6 +1,5 @@
 # 💫 About Me:
-hatdog.
-
+Hello World! I'm Arvin, a confused Computer Science student in University of the Philippines Los Baños, Laguna. Nice to meet you!<br><br>- I like competitive programming.<br>- I’m currently exploring computer science in general but I'm also doing some side projects from time to time.<br>- I love learning algorithms but I don't like implementing them. <br>- I also like math but it depends on my mood
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/0x617276696E) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arvinferrer7804/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/scherazada1) 
