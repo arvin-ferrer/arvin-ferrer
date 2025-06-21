@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 ## 💫 About Me:
 <img align="right" height="150" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/refs/heads/master/data/giphy.gif"/>
 
