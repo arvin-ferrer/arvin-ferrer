@@ -14,9 +14,10 @@
 <img src="https://iconic-api.onrender.com/dark/html" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/js" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/c" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/c++" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/powershell" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/cpp" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/linux" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/bash" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/css" width="64px" />
 </div>
 
 ## 📊 GitHub Stats:
