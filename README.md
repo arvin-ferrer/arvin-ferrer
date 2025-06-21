@@ -13,5 +13,3 @@ Hello World! I'm Arvin, a confused Computer Science student in University of the
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arvin-ferrer&radius=16&theme=2077&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 ---
-[![](https://visitcount.itsvg.in/api?id=arvin-ferrer&icon=0&color=0)](https://visitcount.itsvg.in)
-
