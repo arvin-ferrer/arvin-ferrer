@@ -13,7 +13,7 @@
 <img src="https://iconic-api.onrender.com/dark/python" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/html" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/js" width="64px" />
-<div>
+</div>
 ## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arvin-ferrer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
