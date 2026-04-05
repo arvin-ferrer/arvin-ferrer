@@ -16,7 +16,6 @@
   <!-- Left accent bar -->
   <rect x="0" y="0" width="4" height="220" fill="#cba6f7"/>
 
-  <!-- Top-right decorative circles (like a terminal toolbar) -->
   <circle cx="856" cy="32" r="9" fill="#f38ba8" opacity="0.85"/>
   <circle cx="832" cy="32" r="9" fill="#f9e2af" opacity="0.85"/>
   <circle cx="808" cy="32" r="9" fill="#a6e3a1" opacity="0.85"/>
