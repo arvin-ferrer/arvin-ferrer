@@ -29,10 +29,10 @@
   <text x="36" y="118" font-family="ui-monospace,'Cascadia Code','Fira Code',monospace" font-size="52" font-weight="bold" fill="#cba6f7">Arvin Ferrer</text>
 
   <!-- Subtitle row -->
-  <text x="40" y="152" font-family="ui-monospace,'Cascadia Code','Fira Code',monospace" font-size="15" fill="#89b4fa">CS student @ UPLB</text>
-  <text x="70" y="152" font-family="ui-monospace,'Cascadia Code','Fira Code',monospace" font-size="15" fill="#45475a"> // </text>
-  <text x="100" y="152" font-family="ui-monospace,'Cascadia Code','Fira Code',monospace" font-size="15" fill="#fab387">Aspiring Software Engineer | Data Scientist</text>
-
+<!-- Subtitle row -->
+<text x="40" y="152" font-family="ui-monospace,'Cascadia Code','Fira Code',monospace" font-size="15" fill="#89b4fa">CS student @ UPLB</text>
+<text x="210" y="152" font-family="ui-monospace,'Cascadia Code','Fira Code',monospace" font-size="15" fill="#45475a"> // </text>
+<text x="258" y="152" font-family="ui-monospace,'Cascadia Code','Fira Code',monospace" font-size="15" fill="#fab387">Aspiring Software Engineer | Data Scientist</text>
   <!-- Bottom divider -->
   <rect x="36" y="190" width="828" height="1" fill="#313244"/>
 
