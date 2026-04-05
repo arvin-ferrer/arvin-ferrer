@@ -31,10 +31,8 @@
 
   <!-- Subtitle row -->
   <text x="40" y="152" font-family="ui-monospace,'Cascadia Code','Fira Code',monospace" font-size="15" fill="#89b4fa">CS student @ UPLB</text>
-  <text x="148" y="152" font-family="ui-monospace,'Cascadia Code','Fira Code',monospace" font-size="15" fill="#45475a">  //  </text>
-  <text x="192" y="152" font-family="ui-monospace,'Cascadia Code','Fira Code',monospace" font-size="15" fill="#94e2d5">Dost-sei scholar</text>
   <text x="354" y="152" font-family="ui-monospace,'Cascadia Code','Fira Code',monospace" font-size="15" fill="#45475a">  //  </text>
-  <text x="398" y="152" font-family="ui-monospace,'Cascadia Code','Fira Code',monospace" font-size="15" fill="#fab387">Aspiring Software Engineer| Data Scientist</text>
+  <text x="398" y="152" font-family="ui-monospace,'Cascadia Code','Fira Code',monospace" font-size="15" fill="#fab387">Aspiring Software Engineer | Data Scientist</text>
 
   <!-- Bottom divider -->
   <rect x="36" y="190" width="828" height="1" fill="#313244"/>
