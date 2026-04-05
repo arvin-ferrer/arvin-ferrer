@@ -27,10 +27,10 @@
   <text x="152" y="33" font-family="ui-monospace,'Cascadia Code','Fira Code',monospace" font-size="13" fill="#a6e3a1">cat profile.md</text>
 
   <!-- Name -->
-  <text x="36" y="118" font-family="ui-monospace,'Cascadia Code','Fira Code',monospace" font-size="52" font-weight="bold" fill="#cba6f7">arvin ferrer</text>
+  <text x="36" y="118" font-family="ui-monospace,'Cascadia Code','Fira Code',monospace" font-size="52" font-weight="bold" fill="#cba6f7">Arvin Ferrer</text>
 
   <!-- Subtitle row -->
-  <text x="40" y="152" font-family="ui-monospace,'Cascadia Code','Fira Code',monospace" font-size="15" fill="#89b4fa">CS Student @ UPLB</text>
+  <text x="40" y="152" font-family="ui-monospace,'Cascadia Code','Fira Code',monospace" font-size="15" fill="#89b4fa">CS student @ UPLB</text>
   <text x="148" y="152" font-family="ui-monospace,'Cascadia Code','Fira Code',monospace" font-size="15" fill="#45475a">  //  </text>
   <text x="192" y="152" font-family="ui-monospace,'Cascadia Code','Fira Code',monospace" font-size="15" fill="#94e2d5">Dost-sei scholar</text>
   <text x="354" y="152" font-family="ui-monospace,'Cascadia Code','Fira Code',monospace" font-size="15" fill="#45475a">  //  </text>
