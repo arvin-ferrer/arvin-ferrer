@@ -61,12 +61,11 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arvin-ferrer&show_icons=true&include_all_commits=true&count_private=true&theme=catppuccin_mocha&hide_border=true&cache_seconds=3600" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arvin-ferrer&layout=compact&langs_count=5&theme=catppuccin_mocha&hide_border=true&cache_seconds=3600" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arvin-ferrer&show_icons=true&theme=catppuccin_mocha&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arvin-ferrer&layout=compact&langs_count=5&theme=catppuccin_mocha&hide_border=true" height="150" />
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arvin-ferrer&radius=16&area=true&hide_border=true&hide_title=true&bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=b4befe&area_color=313244" height="280" />
 </div>
-
 ---
 
 <div align="center">
